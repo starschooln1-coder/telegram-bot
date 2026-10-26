@@ -1,0 +1,30 @@
+{
+  "morning": [
+    {
+      "text": "☀️ <b>Xayrli tong!</b>\n\nKuniga atigi 20 daqiqa o'qish bir yilda 120 soatdan ortiq bilim degani. Katta natija kichik qadamlardan boshlanadi.\n\n📚 <b>[MARKAZ NOMI]</b> o'quv markazida yangi guruhlarga qabul davom etmoqda.\n📍 [MANZIL]\n📞 [TELEFON]",
+      "button": {"text": "📝 Bepul sinov darsiga yozilish", "url": "https://t.me/USERNAME"}
+    },
+    {
+      "text": "📌 <b>Bugungi maslahat</b>\n\nYangi so'zlarni alohida emas, gap ichida yodlang va o'sha kuni kamida bir marta ishlating. Shunda ular ancha yaxshi esda qoladi.\n\n📚 <b>[MARKAZ NOMI]</b>da o'qish samarali va qiziqarli!\n📞 [TELEFON]",
+      "button": {"text": "📝 Ro'yxatdan o'tish", "url": "https://t.me/USERNAME"}
+    },
+    {
+      "text": "🎯 <b>Farzandingiz kelajagi bugundan boshlanadi</b>\n\n✅ Tajribali o'qituvchilar\n✅ Kichik guruhlar\n✅ Ota-onalarga har oy hisobot\n✅ Birinchi dars bepul\n\n📍 [MANZIL]\n📞 [TELEFON]",
+      "button": {"text": "📝 Bepul sinov darsiga yozilish", "url": "https://t.me/USERNAME"}
+    }
+  ],
+  "evening": [
+    {
+      "text": "🎁 <b>Bepul sinov darsi!</b>\n\nO'zingiz yoki farzandingiz uchun mos guruhni tanlash uchun bepul sinov darsiga keling. Darajangizni aniqlab, sizga mos o'quv rejasini tuzib beramiz.\n\n📍 [MANZIL]\n📞 [TELEFON]",
+      "button": {"text": "📝 Joy band qilish", "url": "https://t.me/USERNAME"}
+    },
+    {
+      "text": "🏆 <b>O'quvchilarimiz natijalari</b>\n\n🥇 [Ism] — [natija, masalan: IELTS 7.0]\n🥈 [Ism] — [natija]\n🥉 [Ism] — [natija]\n\nKeyingi natija sizniki bo'lishi mumkin!\n📞 [TELEFON]",
+      "button": {"text": "📝 Ro'yxatdan o'tish", "url": "https://t.me/USERNAME"}
+    },
+    {
+      "text": "👥 <b>Do'stingizni olib keling!</b>\n\nDo'stingiz bilan birga yozilsangiz, ikkalangizga ham [CHEGIRMA] chegirma beriladi.\n\n📚 <b>[MARKAZ NOMI]</b>\n📞 [TELEFON]",
+      "button": {"text": "📝 Birga yozilish", "url": "https://t.me/USERNAME"}
+    }
+  ]
+}
